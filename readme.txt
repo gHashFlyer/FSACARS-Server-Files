@@ -1,4 +1,14 @@
-fsACARS Configuration Guide (turn on wordwrap)
+FSACARS Configuration Guide
+
+ABOUT FSACARS
+FSACARS is a Windows-based program to help automate flight reporting for users with Microsoft Flight Simulator or X-Plane. It was developed specifically to be free, easy to use, and fully functional.
+Quickly submit accurate flight reports with comprehensive data, including landing rate, block and time aloft, fuel used, crash/slew/pause detection, among others.
+First developed more than 20 years ago, FSACARS continues to log thousands of flights every year. Our core model continues to evolve, and new versions have been developed to support different needs, including helicopters, vision-impaired pilots, and custom builds.
+
+https://fsacars.com
+
+================================================================================
+
 
 INTRODUCTION / QUICKSTART
 =========================
