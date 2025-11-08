@@ -56,8 +56,8 @@ $fstimein = $_REQUEST['fstimein']; //HHmm (UTC)
 
 $blocktime =  $_REQUEST['blocktime']; //block time, decimal hours
 $airtime   =  $_REQUEST['airtime'];   //enroute time, decimal hours
-$directNM =  $_REQUEST['directNM']; //great circle distance, NM
-$actualNM =  $_REQUEST['actualNM']; //flight path distance, NM
+$directNM  =  $_REQUEST['directNM'];  //great circle distance, NM
+$actualNM  =  $_REQUEST['actualNM'];  //flight path distance, NM
 
 
 $dateshort = $_REQUEST['dateshort']; //Date in the following format: MM/DD/YY
