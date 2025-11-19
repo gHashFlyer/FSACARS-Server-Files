@@ -17,7 +17,7 @@ A summary of the steps to configuring acars for your VA:
 
 Upload all the server files to one folder on your server.
 Edit fsACARS's org.cfg to update the URLs. (see Server Configuration, below)
-Distribute fsACARS (with your new serverconfig.txt) to your users.
+Distribute fsACARS (with your new org.cfg) to your users.
 
 
 SERVER CONFIGURATION
