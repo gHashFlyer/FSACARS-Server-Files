@@ -2,7 +2,7 @@
 
 // Generic flight report receiver.
 // For example usage with mySQL database see mysql_pirep.php
-
+// See pirep-variables.txt for a full list of field names and example values.
 
 $SERVERLOGBOOK = "serverlogbook.csv";
 
