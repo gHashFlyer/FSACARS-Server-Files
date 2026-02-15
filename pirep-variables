@@ -1,0 +1,165 @@
+As of version 4.2.2, these are the latest field names and example values sent by pirep.php
+
+user: FDX42
+pass: abc123
+datestamp: 1771177761
+fhash: 7786e1832b7fa5578e0963e1d51f2527
+version: 4.2.2
+verf: FSACARS
+auth: demo
+aircraft: King Air C90B EVO G1000 V1.3 T44
+atcData: _N42FX_FDX 42_King Air C90B EVO G1000 _
+atcModel: FedEx Aircraft
+lat1: 41.779927
+lon1: -87.758324
+lat2: 43.169812
+lon2: -86.234139
+lat3: 43.169777
+lon3: -86.234208
+timeout: 1709
+timeoff: 1710
+timeon: 1748
+timein: 1749
+fstimeout: 1709
+fstimeoff: 1710
+fstimeon: 1748
+fstimein: 1749
+blocktime: 0.65
+airtime: 0.62
+directNM: 107.2
+actualNM: 132.6
+fuelstart: 1212.0
+fuelstop: 869.0
+landingKTS: 77.0
+finalFPM: 218
+landingFPM: 218
+landingFR: VFR
+landingG: 0.95
+landingGear: 1
+crashed: 0
+warpNM: 0.0
+pause: 0
+slew: 0
+stall: 0
+nofuel: 0
+overspeed: 115
+speed10K: 0
+simrate: 0
+refuel: 0
+takeoffLBS: 8368
+landingLBS: 8034
+payload: 472
+takeoffFR: VFR
+windstart: 26407
+windstop: 22006
+fsver: XP
+oew: 6689
+zfw: 7161
+enroutefuel: 335
+taxifuel: 8
+blockfuel: 343
+rollout: 22
+gmax: 1.95
+gmin: 0.66
+takeoffHWC: -5.4
+takeoffXWC: 4.4
+landingHWC: 5.8
+landingXWC: 1.6
+wdavg: 295
+wsavg: 14
+hwavg: -1.9
+takeoffflaps: 4
+landingflaps: 8
+omaxtaxi: 27
+dmaxtaxi: 1
+takeoffKTS: 127
+land_truehdg: 0
+timoday: Day
+nightlog: 0.0
+z: flightReport
+pirep: good flight in the G90
+fnum: L4JY6
+----------------------
+Here theer are sorted alphabetically:
+actualNM: 132.6
+aircraft: King Air C90B EVO G1000 V1.3 T44
+airtime: 0.62
+atcData: _N42FX_FDX 42_King Air C90B EVO G1000 _
+atcModel: FedEx Aircraft
+auth: demo
+blockfuel: 343
+blocktime: 0.65
+crashed: 0
+datestamp: 1771177761
+directNM: 107.2
+dmaxtaxi: 1
+enroutefuel: 335
+fhash: 7786e1832b7fa5578e0963e1d51f2527
+finalFPM: 218
+fnum: L4JY6
+fstimein: 1749
+fstimeoff: 1710
+fstimeon: 1748
+fstimeout: 1709
+fsver: XP
+fuelstart: 1212.0
+fuelstop: 869.0
+gmax: 1.95
+gmin: 0.66
+hwavg: -1.9
+land_truehdg: 0
+landingFPM: 218
+landingFR: VFR
+landingG: 0.95
+landingGear: 1
+landingHWC: 5.8
+landingKTS: 77.0
+landingLBS: 8034
+landingXWC: 1.6
+landingflaps: 8
+lat1: 41.779927
+lat2: 43.169812
+lat3: 43.169777
+lon1: -87.758324
+lon2: -86.234139
+lon3: -86.234208
+nightlog: 0.0
+nofuel: 0
+oew: 6689
+omaxtaxi: 27
+overspeed: 115
+pass: abc123
+pause: 0
+payload: 472
+pirep: good flight in the G90
+refuel: 0
+rollout: 22
+simrate: 0
+slew: 0
+speed10K: 0
+stall: 0
+takeoffFR: VFR
+takeoffHWC: -5.4
+takeoffKTS: 127
+takeoffLBS: 8368
+takeoffXWC: 4.4
+takeoffflaps: 4
+taxifuel: 8
+timein: 1749
+timeoff: 1710
+timeon: 1748
+timeout: 1709
+timoday: Day
+user: FDX42
+verf: FSACARS
+version: 4.2.2
+warpNM: 0.0
+wdavg: 295
+windstart: 26407
+windstop: 22006
+wsavg: 14
+z: flightReport
+zfw: 7161
+
+
+
