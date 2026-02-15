@@ -42,7 +42,12 @@ orgname - the name of your virtual airline
 orgurl - the URL of your website
 orglogo - the name of the logo file (set to none if you do not have a license)
 orglicense - license key (set to none if you do not have a license)
-hashalgo - can be one of: MD5, SHA1, SHA256, SHA512, BCrypt
+hashalgo - can be one of: MD5, SHA1, SHA256, SHA512, BCrypt, PBKDF2, HTTPS
+
+Note: if hashalgo is set to MD5, SHA1, SHA256, or SHA512, 
+then the password will be hashed using that algorithm;
+BCrypt, PBKDF2, HTTPS all require the plain text password,
+and assume the connection to a secure server (i.e., https).
 
 userquery - path to the userquery.php file
 pirep - path to the pirep.php or pirep_mysql.php file
