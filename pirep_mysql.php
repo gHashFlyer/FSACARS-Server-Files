@@ -2,6 +2,7 @@
 
 // Generic example of how to populate an sql database with data from fsACARS
 // Note - this has not been thoroughly tested and should be used only as a guide.
+// See pirep-variables.txt for a full list of field names and example values.
 //==============================================================================
 $SERVERLOGBOOK = "serverlogbook.csv"; // this is for backup logging
 
